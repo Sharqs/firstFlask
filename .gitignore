@@ -1,2 +1,3 @@
 flask-greet-calc/venv/
 flask-greet-calc/greet/__pycache__
+flask-greet-calc/calc/__pycache__
